@@ -51,7 +51,7 @@ public class DateRangeTest {
 	}
 	
 	public static void main(String[] args) {
-		
+		System.out.println("Showing the output:");
 		System.out.println("<Inside Main> The age is: "+calculateAge() +" year(s).");
 	}
 
