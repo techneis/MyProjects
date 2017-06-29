@@ -31,7 +31,8 @@ public class StudentController {
 		 new Student(101, "Niharika", "nikki@gmail.com"),
 		 new Student(102, "Bunty", "bunty@gmail.com"),
 		 new Student(103, "Harsh", "harsh@gmail.com"),
-		 new Student(104, "Sakshi", "sakshi@gmail.com"));
+		 new Student(104, "Sakshi", "sakshi@gmail.com"),
+		 new Student(105, "Pihoo", "taapsi@gmail.com"));
 		 
 		 return listOfStudents;			 
 	}
